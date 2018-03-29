@@ -2,8 +2,6 @@
 
 <h2 id="spring-boot-kakao-v10">Spring-boot-kakao v1.0</h2>
 
-<hr>
-
 <h2 id="documents">Documents</h2>
 
 <p>Spring-boot Framework 기반의  Sing Page Appliaction  프로젝트</p>
@@ -18,14 +16,10 @@
 <li>Junit TEST 구현</li>
 </ol>
 
-<hr>
-
 <h2 id="project-build">Project build</h2>
 
-<p>github : <a href="https://github.com/minsu9250/spring-boot-kakao">https://github.com/minsu9250/spring-boot-kakao</a> <br>
+<p>github : <a href="https://github.com/minsu9250/spring-boot-kakao">https://github.com/minsu9250/springboot-kakao</a> <br>
 import : github URL clone -&gt; Gradle (STS) Project -&gt; BuildModel</p>
-
-<hr>
 
 <h2 id="gradle-setting">Gradle setting</h2>
 
@@ -43,8 +37,6 @@ compile(‘javax.servlet:jstl:1.2’) <br>
 compile(‘org.webjars:jquery-ui:1.11.4’) <br>
 compile(‘org.webjars:bootstrap:3.3.5’)</p>
 
-<hr>
-
 <h2 id="execute">Execute</h2>
 
 <p><a href="http://localhost:8080/kakao/index">http://localhost:8080/kakao/index</a></p>
@@ -58,8 +50,6 @@ compile(‘org.webjars:bootstrap:3.3.5’)</p>
 <ul>
 <li>해당 URL 접속 -&gt; DB 저장 데이터 확인</li>
 </ul>
-
-<hr>
 
 <h2 id="table">Table</h2>
 
