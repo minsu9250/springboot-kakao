@@ -2,7 +2,7 @@
 
 <h2 id="spring-boot-kakao-v10">Spring-boot-kakao v1.0</h2>
 
-
+<hr>
 
 <h2 id="documents">Documents</h2>
 
@@ -58,6 +58,8 @@ compile(‘org.webjars:bootstrap:3.3.5’)</p>
 <ul>
 <li>해당 URL 접속 -&gt; DB 저장 데이터 확인</li>
 </ul>
+
+<hr>
 
 <h2 id="table">Table</h2>
 
